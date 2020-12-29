@@ -1,0 +1,18 @@
+﻿  18120042.cpp
+E:\khoi\tailieu\CNTT\KTLT\do_an_ktlt\18120042\snake\18120042\18120042.cpp(62,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\khoi\tailieu\CNTT\KTLT\do_an_ktlt\18120042\snake\18120042\18120042.cpp(143,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\khoi\tailieu\CNTT\KTLT\do_an_ktlt\18120042\snake\18120042\18120042.cpp(429,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\khoi\tailieu\CNTT\KTLT\do_an_ktlt\18120042\snake\18120042\18120042.cpp(430,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\khoi\tailieu\CNTT\KTLT\do_an_ktlt\18120042\snake\18120042\18120042.cpp(478,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\khoi\tailieu\CNTT\KTLT\do_an_ktlt\18120042\snake\18120042\18120042.cpp(480,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\khoi\tailieu\CNTT\KTLT\do_an_ktlt\18120042\snake\18120042\18120042.cpp(482,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\khoi\tailieu\CNTT\KTLT\do_an_ktlt\18120042\snake\18120042\18120042.cpp(483,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\khoi\tailieu\CNTT\KTLT\do_an_ktlt\18120042\snake\18120042\18120042.cpp(484,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\khoi\tailieu\CNTT\KTLT\do_an_ktlt\18120042\snake\18120042\18120042.cpp(485,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\khoi\tailieu\CNTT\KTLT\do_an_ktlt\18120042\snake\18120042\18120042.cpp(487,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\khoi\tailieu\CNTT\KTLT\do_an_ktlt\18120042\snake\18120042\18120042.cpp(489,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\khoi\tailieu\CNTT\KTLT\do_an_ktlt\18120042\snake\18120042\18120042.cpp(522,21): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\khoi\tailieu\CNTT\KTLT\do_an_ktlt\18120042\snake\18120042\18120042.cpp(538,18): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  stdafx.cpp
+  Generating Code...
+  18120042.vcxproj -> E:\khoi\tailieu\CNTT\KTLT\do_an_ktlt\18120042\snake\18120042\Debug\18120042.exe
